@@ -1,0 +1,2 @@
+export const CAKE1 = 'https://static01.nyt.com/images/2023/10/27/multimedia/27cakerex-plzm/27cakerex-plzm-superJumbo.jpg'
+export const CAKE2 = 'https://pastrieslikeapro.com/wp-content/uploads/2022/01/classic-birthday-cake.jpg'
